@@ -9,9 +9,7 @@
         "@babel/preset-typescript"
     ],
     "plugins": [
-        [
-            "effector/babel-plugin"
-        ],
+        "effector/babel-plugin",
         "@babel/plugin-transform-modules-commonjs",
         "@babel/plugin-transform-runtime"
     ]
